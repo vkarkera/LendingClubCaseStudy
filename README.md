@@ -106,7 +106,6 @@ Decisive Factor whether an applicant will be Defaulter:
 
 ## Acknowledgements
 Give credit here.
-- This project was group case study for an online advance course.
 - https://www.geeksforgeeks.org/
 - https://seaborn.pydata.org/
 - https://pandas.pydata.org/
