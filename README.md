@@ -78,9 +78,9 @@ Categorical Variable:
    7. STATE : Percent of loan defaulted is very high for state NE and high for NV and SD
 
 Other suggestions:
-    INTEREST RATE AND PUBLIC BANRUPTIES RECORD : Borrowers with lower interest rate and 2 public bankrupties have defaulted
-    INSTALLMENT AND PUBLIC BANRUPTIES RECORD : Borrowers with higher installment and 2 public bankrupties have defaulted
-    ANNUAL INCONE AND PUBLIC BANRUPTIES RECORD : Borrowers with higher Income and 2 public bankrupties have defaulted
+    INTEREST RATE AND PUBLIC BANKRUPTIES RECORD : Borrowers with lower interest rate and 2 public bankrupties have defaulted
+    INSTALLMENT AND PUBLIC BANKRUPTIES RECORD : Borrowers with higher installment and 2 public bankrupties have defaulted
+    ANNUAL INCONE AND PUBLIC BANKRUPTIES RECORD : Borrowers with higher Income and 2 public bankrupties have defaulted
 
 Decisive Factor whether an applicant will be Defaulter:
     FUNDED_AMOUNT_INVESTED
